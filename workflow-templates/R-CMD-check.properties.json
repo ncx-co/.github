@@ -1,0 +1,8 @@
+{
+  "name": "R CMD check workflow",
+  "description": "Run R CMD check in the sequoia docker image",
+  "iconName": "R-CMD-check",
+  "categories": [
+    "R"
+  ]
+}
