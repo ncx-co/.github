@@ -6,7 +6,7 @@ NCX connects corporations to the landowners, habitats, and communities they impa
 
 ### Open Source Methodology
 
-Excited to share our updated IFM Methodology direct with code and data direct on GitHub. Read more about the details here: https://ncx.com/learning-hub/transparency-drives-trust-in-carbon-credit-quality-announcing-the-ncx-next-generation-harvest-deferral-methodology/
+Excited to share our updated IFM Methodology direct on GitHub. [Read more about the details here.](https://ncx.com/learning-hub/transparency-drives-trust-in-carbon-credit-quality-announcing-the-ncx-next-generation-harvest-deferral-methodology/)
 
 See the methodology text, code, and data:
 https://github.com/ncx-co/ifm_deferred_harvest
